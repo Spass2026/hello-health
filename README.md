@@ -1,5 +1,13 @@
 # 
 
+# \# 🌿 Gesundheit \& Frohsinn
+
+# 
+
+# !\[Banner](public/images/banner.jpg)
+
+# 
+
 # !\[Banner](https://via.placeholder.com/1280x400/0b1220/ffffff?text=Gesundheit+%26+Frohsinn)
 
 # !\[Next.js](https://img.shields.io/badge/Next.js-black)
