@@ -1,3 +1,5 @@
+import { Apple, Activity, Brain } from "lucide-react";
+
 export default function Home() {
   return (
     <main style={{ fontFamily: "Arial", background: "#0b1220", color: "white", minHeight: "100vh" }}>
