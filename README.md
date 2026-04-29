@@ -1,6 +1,6 @@
-# !\[Banner](./public/images/banner.jpg)
+# 
 
-
+# https://raw.githubusercontent.com/Spass2026/hello-health/main/public/images/channels4\_banner.jpg
 
 # \# 🌿 Gesundheit \& Frohsinn
 
@@ -14,7 +14,7 @@
 
 # 
 
-# \## 🌍 Über das Projekt
+# \##  Über das Projekt
 
 # 
 
@@ -32,7 +32,7 @@
 
 # 
 
-# \## 🖼️ Preview
+# \##  Preview
 
 # 
 
@@ -44,17 +44,17 @@
 
 # 
 
-# \## 🧠 Features
+# \## Features
 
 # 
 
-# \- 🥗 Ernährung Tipps
+# \-  Ernährung Tipps
 
-# \- 🏃 Bewegung \& Fitness
+# \-  Bewegung \& Fitness
 
-# \- 🧘 Mentale Gesundheit
+# \-  Mentale Gesundheit
 
-# \- 🌐 Modernes Webdesign
+# \-  Modernes Webdesign
 
 # 
 
@@ -62,7 +62,7 @@
 
 # 
 
-# \## 🛠️ Tech Stack
+# \##  Tech Stack
 
 # 
 
@@ -80,7 +80,7 @@
 
 # 
 
-# \## 📁 Projektstruktur
+# \## Projektstruktur
 
 
 
