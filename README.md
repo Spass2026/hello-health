@@ -6,24 +6,6 @@
 
 # 
 
-# !\[Banner](public/images/banner.jpg)
-
-# 
-
-# !\[Banner](https://via.placeholder.com/1280x400/0b1220/ffffff?text=Gesundheit+%26+Frohsinn)
-
-# !\[Next.js](https://img.shields.io/badge/Next.js-black)
-
-# !\[GitHub](https://img.shields.io/badge/GitHub-Portfolio-green)
-
-# !\[Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
-# 
-
-# \# 🌿 Gesundheit \& Frohsinn
-
-# 
-
 # > Moderne Webplattform für Ernährung, Bewegung und mentale Stärke
 
 # 
